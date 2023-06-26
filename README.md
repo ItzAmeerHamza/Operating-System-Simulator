@@ -27,17 +27,17 @@ Here is the sample outputs
 
 Here is is the file distribution:
 
-__annimation.sh:__ This file contains code for a catch game
-__instructions.sh:__ This file contains code for instructions to start OS
-__menu.sh:__ This file contains code for showing main menu to start OS
-__splash.sh:__ This file contains code for siaplaying splash screen a small annimation at the start of the OS
-__calculator.cpp:__ This file contains code for calculator app
-__calender.cpp:__ This file contains code for calender app
-__copyfile.cpp:__ This file contains code for copying the content of one file into another file
-__deletefile.cpp:__ This file removes file from disk by freeing the allocated space for the file
-__moveFile.cpp:__ This file contains code for moving file to another location
-__date.cpp:__ This file contains code for checking current date
-__notepad.cpp:__ This file contains the code for notepad app
+__annimation.sh:__ This file contains code for a catch game <br />
+__instructions.sh:__ This file contains code for instructions to start OS <br />
+__menu.sh:__ This file contains code for showing main menu to start OS <br />
+__splash.sh:__ This file contains code for siaplaying splash screen a small annimation at the start of the OS <br />
+__calculator.cpp:__ This file contains code for calculator app <br />
+__calender.cpp:__ This file contains code for calender app <br />
+__copyfile.cpp:__ This file contains code for copying the content of one file into another file <br />
+__deletefile.cpp:__ This file removes file from disk by freeing the allocated space for the file <br />
+__moveFile.cpp:__ This file contains code for moving file to another location <br />
+__date.cpp:__ This file contains code for checking current date <br />
+__notepad.cpp:__ This file contains the code for notepad app <br />
 __numberGuesGame.cpp__ This file contains code for number guess game
 __stopwatch.cpp:__ This file contains code for stopwatch app
 __ticTacToe.cp:__ This file contains the code for Tic Tac Toe game
