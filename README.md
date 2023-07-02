@@ -38,7 +38,7 @@ __deletefile.cpp:__ This file removes file from disk by freeing the allocated sp
 __moveFile.cpp:__ This file contains code for moving file to another location <br />
 __date.cpp:__ This file contains code for checking current date <br />
 __notepad.cpp:__ This file contains the code for notepad app <br />
-__numberGuesGame.cpp__ This file contains code for number guess game
-__stopwatch.cpp:__ This file contains code for stopwatch app
-__ticTacToe.cp:__ This file contains the code for Tic Tac Toe game
-__makePipe.cpp:__ This file contains code for making pipes for inter process communication
+__numberGuesGame.cpp__ This file contains code for number guess game <br />
+__stopwatch.cpp:__ This file contains code for stopwatch app <br />
+__ticTacToe.cp:__ This file contains the code for Tic Tac Toe game <br />
+__makePipe.cpp:__ This file contains code for making pipes for inter process communication <br />
